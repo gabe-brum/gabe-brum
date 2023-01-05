@@ -41,4 +41,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `JavaScript`, `React`, `Typescript` , `Next.js`, `HTML`, `CSS`, `Styled Components`, `SASS`, `JSP`\
 <br/>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=gabe-brum&show_icons=true&title_color=042087&text_color=042087&icon_color=042087&bg_color=ccc&cache_seconds=2300">
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-brum&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabe-brum&show_icons=true&theme=dracula&line_height=27" alt="Gabriel Brum Github Stats"/>
+</a>
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=gabe-brum&show_icons=true&title_color=042087&text_color=042087&icon_color=042087&bg_color=ccc&cache_seconds=2300">
