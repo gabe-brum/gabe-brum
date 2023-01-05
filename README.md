@@ -34,10 +34,10 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.spacex.com/static/images/share.jpg](https://logodownload.org/wp-content/uploads/2019/09/arezzo-co-logo-0.png)"/>](https://ri.arezzoco.com.br/)
 
 **Frontend Web Developer** \
-[**Arezzo&Co**](https://www.spacex.com/) • Full-time \
+[**Arezzo&Co**](https://ri.arezzoco.com.br/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `React`, `Typescript` , `Next.js`, `HTML`, `CSS`, `Styled Components`, `SASS`, `JSP`\
 <br/>
 
