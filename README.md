@@ -34,7 +34,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Arezzo&Co" src="https://logodownload.org/wp-content/uploads/2019/09/arezzo-co-logo-0.png"/>](https://ri.arezzoco.com.br/)
+[<img align="left" height="94px" width="94px" alt="Arezzo&Co" src="https://milionarioz.com.br/wp-content/uploads/2021/10/arezzo.jpg"/>](https://ri.arezzoco.com.br/)
 
 **Frontend Web Developer** \
 [**Arezzo&Co**](https://ri.arezzoco.com.br/) • Full-time \
