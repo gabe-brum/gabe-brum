@@ -38,7 +38,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Frontend Web Developer** \
 [**Arezzo&Co**](https://ri.arezzoco.com.br/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `React`, `Typescript` , `Next.js`, `HTML`, `CSS`, `Styled Components`, `SASS`, `JSP`\
+Linguagens & Tecnologias: `JavaScript`, `React`, `Typescript` , `Next.js`, `HTML`, `CSS`, `Styled Components`, `SASS`, `JSP`\, `Tailwind`, `Thymeleaf`
 <br/>
 
 ## **GitHub Estatísticas**
@@ -46,5 +46,3 @@ Linguagens & Tecnologias: `JavaScript`, `React`, `Typescript` , `Next.js`, `HTML
 <a href="https://github.com/Gurupreet">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-brum&theme=dracula&hide_langs_below=1" />
 </a>
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gabe-brum&show_icons=true&title_color=042087&text_color=042087&icon_color=042087&bg_color=ccc&cache_seconds=2300">
