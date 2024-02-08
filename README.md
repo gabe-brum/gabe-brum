@@ -18,16 +18,16 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="https://www.linkedin.com/in/gabriel-brum-da-luz/" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrielbrumdaluz@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="#" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-brum-da-luz/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/5551982820615" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5551982820715"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://instagram.com/gabriel_bluz" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/gabriel_bluz"/></a>
 </p> 
 
