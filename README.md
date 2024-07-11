@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React JS, SASS, Styled Components, Jenkins, SAP eCommerce, Docker, Google Tag Manager</strong>
+  💼 Ferramentas: <strong>React JS, Node JS, Tailwind, SASS, Styled Components, Jenkins, SAP eCommerce, Docker, Google Tag Manager</strong>
 </p>
 
 <p align="left">
